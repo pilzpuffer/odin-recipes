@@ -83,5 +83,22 @@ ol li::marker {
     font-family: Viking;
     font-weight: bold;
     font-size: 20px;
+
 }
 
+a {
+    color:black;
+}
+
+a:hover { 
+    text-decoration: none; 
+    color: rgb(190, 24, 93);
+  } 
+
+h1.tag {
+    font-size: 225%;
+}
+
+.logo {
+    vertical-align: middle;
+}
